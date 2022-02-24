@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <script>
+     let menu = [
+        {
+            name: 'menü1',
+            submenus: [
+                {
+                    name: 'menu2',
+                    submenus: [
+                        {
+                            name: 'menu3',
+                            submenus: []
+                        },
+                        {
+                            name: 'menu4',
+                            submenus: []
+                        },
+                        {
+                            name: 'menu5',
+                            submenus: [
+                                {
+                                    name: 'menu6',
+                                    submenus: [
+                                        {
+                                            name: 'menu x',
+                                            submenus:[]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            name: 'menü7',
+            submenus: []
+        },
+
+        {
+            name: 'menü8',
+            submenus: []
+        }       
+    ];
+    
+    function getMenu( obj ){
+
+        let result = obj.length > 0 ? '<ul>' : '';
+        
+        obj.map( item =>{
+            
+            result += '<li>'+item.name+'</li>';
+
+            result += getMenu( item.submenus )
+        } )
+
+        result +=  obj.length > 0 ? '</ul>' : '';
+
+        return result;
+    }
+    
+
+    document.querySelector('body').innerHTML = getMenu( menu );
+    </script>
+</body>
+</html>
