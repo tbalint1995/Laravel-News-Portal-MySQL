@@ -7,56 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+![1 hirportal](https://user-images.githubusercontent.com/93486996/155542090-3be4fd5e-1246-41cf-a028-f5af3093bd9b.jpg)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![2 hirportal](https://user-images.githubusercontent.com/93486996/155542094-160879fa-3d1c-4946-9222-bc04e1c1cac4.jpg)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+![3  Kosárba került a like](https://user-images.githubusercontent.com/93486996/155542097-883ea8d3-41ca-4408-ad18-db6eaf882802.jpg)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![4 Részletek](https://user-images.githubusercontent.com/93486996/155542099-e4eb88e6-9bf0-4053-948e-cb0b0d1039b0.jpg)
 
-## Learning Laravel
+![5 Kommentek](https://user-images.githubusercontent.com/93486996/155542102-4d681c83-cab2-4a2d-b376-5fda8d792544.jpg)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![7 Szólj hozzá te is!](https://user-images.githubusercontent.com/93486996/155542105-c58410ce-3a73-4bfd-b890-cc2471bd09df.jpg)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![8 Search](https://user-images.githubusercontent.com/93486996/155542107-b608ba2a-f6fd-4209-99bd-ff3cbcc27b80.jpg)
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![9 Search (2)](https://user-images.githubusercontent.com/93486996/155542109-f34b1175-d525-41dc-93e2-8004a7f77a75.jpg)
